@@ -1,0 +1,5 @@
+=> Proteome
+https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000146045.2/
+
+=> Interactome
+https://thebiogrid.org/
