@@ -1,0 +1,2180 @@
+855549;Cell cycle - yeast
+852835;N-Glycan biosynthesis
+853710;Autophagy - yeast
+854878;Nucleotide excision repair
+854432;Base excision repair
+854283;RNA polymerase
+856263;Motor proteins
+852723;Pantothenate and CoA biosynthesis
+850581;Histidine metabolism
+852984;Cell cycle - yeast
+856296;Sulfur metabolism
+854982;Ribosome
+853169;Glycolysis / Gluconeogenesis
+853671;ABC transporters
+851190;MAPK signaling pathway - yeast
+856227;Cell cycle - yeast
+851676;MAPK signaling pathway - yeast
+851934;ATP-dependent chromatin remodeling
+853376;Ribosome biogenesis in eukaryotes
+854059;DNA replication
+856782;Histidine metabolism
+852432;Cell cycle - yeast
+855502;N-Glycan biosynthesis
+856418;Motor proteins
+853526;RNA polymerase
+851899;Purine metabolism
+854966;ATP-dependent chromatin remodeling
+850455;RNA degradation
+854708;Starch and sucrose metabolism
+856386;Sphingolipid metabolism
+854614;Aminoacyl-tRNA biosynthesis
+856226;RNA polymerase
+854130;Mitophagy - yeast
+854695;Oxidative phosphorylation
+855795;Biotin metabolism
+853470;Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+852813;Nicotinate and nicotinamide metabolism
+856460;Pantothenate and CoA biosynthesis
+853594;Cysteine and methionine metabolism
+852407;N-Glycan biosynthesis
+851753;Inositol phosphate metabolism
+851614;Porphyrin metabolism
+854385;RNA polymerase
+853204;Galactose metabolism
+851641;Endocytosis
+853499;Nucleocytoplasmic transport
+851181;Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+852862;N-Glycan biosynthesis
+855619;Valine, leucine and isoleucine biosynthesis
+851998;Ubiquitin mediated proteolysis
+856544;Ribosome
+852255;RNA degradation
+852501;DNA replication
+852911;Ribosome
+856079;Fatty acid degradation
+850884;RNA degradation
+855972;Ribosome
+855306;Protein processing in endoplasmic reticulum
+852474;Pantothenate and CoA biosynthesis
+851539;Glycerophospholipid metabolism
+852030;MAPK signaling pathway - yeast
+851437;Porphyrin metabolism
+852051;Purine metabolism
+851531;Spliceosome
+851990;Ribosome
+850515;Cell cycle - yeast
+856354;SNARE interactions in vesicular transport
+852440;mRNA surveillance pathway
+855283;Ribosome
+856926;Meiosis - yeast
+851902;Other types of O-glycan biosynthesis
+853810;Fatty acid biosynthesis
+856890;Cell cycle - yeast
+852876;Oxidative phosphorylation
+856245;Vitamin B6 metabolism
+851583;Pyrimidine metabolism
+853789;Protein processing in endoplasmic reticulum
+850935;Homologous recombination
+850878;Endocytosis
+851415;RNA polymerase
+855173;Ribosome
+855796;Various types of N-glycan biosynthesis
+856442;Inositol phosphate metabolism
+854802;ABC transporters
+855237;SNARE interactions in vesicular transport
+851942;Aminoacyl-tRNA biosynthesis
+856061;Ubiquitin mediated proteolysis
+854604;Oxidative phosphorylation
+852889;Spliceosome
+856294;MAPK signaling pathway - yeast
+851014;Inositol phosphate metabolism
+851830;Spliceosome
+851007;Starch and sucrose metabolism
+853061;Glycerophospholipid metabolism
+850511;Meiosis - yeast
+854582;Oxidative phosphorylation
+856801;Purine metabolism
+853439;Cell cycle - yeast
+853531;DNA replication
+852777;Purine metabolism
+853172;Pentose phosphate pathway
+852472;Polycomb repressive complex
+852788;Nucleocytoplasmic transport
+852008;Purine metabolism
+852136;Endocytosis
+852950;Meiosis - yeast
+851500;Homologous recombination
+851823;Ribosome
+856425;MAPK signaling pathway - yeast
+851151;Autophagy - yeast
+854930;Ubiquinone and other terpenoid-quinone biosynthesis
+855674;MAPK signaling pathway - yeast
+856607;Proteasome
+851152;Purine metabolism
+852695;Autophagy - other
+854099;Thiamine metabolism
+851694;Ribosome
+855438;MAPK signaling pathway - yeast
+856382;MAPK signaling pathway - yeast
+852736;Ubiquitin mediated proteolysis
+850778;Arginine biosynthesis
+853768;Glycerolipid metabolism
+856537;MAPK signaling pathway - yeast
+854673;Ribosome
+850808;Spliceosome
+856791;Glycerolipid metabolism
+854942;Base excision repair
+853283;MAPK signaling pathway - yeast
+854915;Phagosome
+856553;Ribosome biogenesis in eukaryotes
+853357;Arginine biosynthesis
+851922;Oxidative phosphorylation
+852804;Ribosome
+853807;Basal transcription factors
+851910;Inositol phosphate metabolism
+851634;Sphingolipid metabolism
+854661;beta-Alanine metabolism
+856924;MAPK signaling pathway - yeast
+853805;Glycolysis / Gluconeogenesis
+855678;Protein processing in endoplasmic reticulum
+855182;Protein export
+851000;Ribosome biogenesis in eukaryotes
+854518;RNA polymerase
+853183;Folate biosynthesis
+854479;Pyrimidine metabolism
+855943;Aminoacyl-tRNA biosynthesis
+852018;Ubiquitin mediated proteolysis
+855226;Ribosome
+851956;Phenylalanine, tyrosine and tryptophan biosynthesis
+854243;mRNA surveillance pathway
+854893;Oxidative phosphorylation
+853610;Ribosome
+853142;N-Glycan biosynthesis
+851245;Glycolysis / Gluconeogenesis
+850633;Longevity regulating pathway - multiple species
+850445;MAPK signaling pathway - yeast
+852215;Glutathione metabolism
+851994;Homologous recombination
+854663;Basal transcription factors
+856448;Oxidative phosphorylation
+854489;Ribosome
+855836;Protein processing in endoplasmic reticulum
+854556;Glycolysis / Gluconeogenesis
+855333;Folate biosynthesis
+9164932;Ribosome biogenesis in eukaryotes
+850540;Cell cycle - yeast
+854900;Terpenoid backbone biosynthesis
+852291;Alanine, aspartate and glutamate metabolism
+854016;RNA degradation
+850422;Ribosome biogenesis in eukaryotes
+852648;Nicotinate and nicotinamide metabolism
+851690;Arginine biosynthesis
+852934;Pentose phosphate pathway
+850882;Ribosome
+854324;ABC transporters
+852480;MAPK signaling pathway - yeast
+853271;Lysine degradation
+853015;Ribosome
+856153;Autophagy - yeast
+855732;Citrate cycle (TCA cycle)
+856492;Meiosis - yeast
+9164922;Spliceosome
+851045;Ribosome
+850369;ABC transporters
+855866;Citrate cycle (TCA cycle)
+856680;DNA replication
+854163;N-Glycan biosynthesis
+851475;Nucleocytoplasmic transport
+855741;Autophagy - other
+854164;Autophagy - yeast
+856223;Proteasome
+854919;Oxidative phosphorylation
+853416;Endocytosis
+853681;Spliceosome
+852444;Efferocytosis
+853621;Thiamine metabolism
+856136;Basal transcription factors
+854149;Ubiquitin mediated proteolysis
+850409;Basal transcription factors
+854796;Protein processing in endoplasmic reticulum
+852049;Meiosis - yeast
+853614;Nitrogen metabolism
+854098;Glycolysis / Gluconeogenesis
+854616;Aminoacyl-tRNA biosynthesis
+853596;Nucleocytoplasmic transport
+856471;Ribosome biogenesis in eukaryotes
+850432;Glycerolipid metabolism
+852296;Oxidative phosphorylation
+852530;N-Glycan biosynthesis
+852500;Protein processing in endoplasmic reticulum
+854881;Ribosome biogenesis in eukaryotes
+855870;Thiamine metabolism
+854999;Viral life cycle - HIV-1
+852344;Spliceosome
+851557;Proteasome
+855228;Homologous recombination
+855426;DNA replication
+853216;Meiosis - yeast
+855205;Glycolysis / Gluconeogenesis
+856899;MAPK signaling pathway - yeast
+851533;Cell cycle - yeast
+855768;Folate biosynthesis
+851474;Oxidative phosphorylation
+854396;Fatty acid biosynthesis
+856058;MAPK signaling pathway - yeast
+853544;ATP-dependent chromatin remodeling
+851615;RNA polymerase
+855052;MAPK signaling pathway - yeast
+853821;DNA replication
+854939;Ribosome
+851113;Ribosome biogenesis in eukaryotes
+854865;Pyrimidine metabolism
+853541;Tryptophan metabolism
+855928;Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+856422;Proteasome
+850541;Proteasome
+856135;Mitophagy - yeast
+854817;mRNA surveillance pathway
+856289;Starch and sucrose metabolism
+853864;Ribosome
+855809;Meiosis - yeast
+856731;Proteasome
+9164981;Ribosome biogenesis in eukaryotes
+850754;Protein export
+855176;Oxidative phosphorylation
+855661;Protein processing in endoplasmic reticulum
+855030;Meiosis - yeast
+856891;Basal transcription factors
+851193;Glycolysis / Gluconeogenesis
+852568;Sphingolipid metabolism
+852852;Ribosome
+856191;MAPK signaling pathway - yeast
+854170;MAPK signaling pathway - yeast
+855891;Protein export
+851005;Spliceosome
+856169;Basal transcription factors
+850372;Non-homologous end-joining
+852577;Cell cycle - yeast
+852113;Cysteine and methionine metabolism
+854382;RNA polymerase
+851084;RNA degradation
+852495;Glycolysis / Gluconeogenesis
+853670;Ubiquitin mediated proteolysis
+853825;Endocytosis
+854023;RNA degradation
+9164888;Spliceosome
+850769;Protein processing in endoplasmic reticulum
+851460;Spliceosome
+856511;Sulfur relay system
+852150;Ubiquinone and other terpenoid-quinone biosynthesis
+854668;Motor proteins
+853830;Pentose and glucuronate interconversions
+851937;Ribosome
+855271;Autophagy - yeast
+855625;Meiosis - yeast
+852062;Cell cycle - yeast
+851266;DNA replication
+853272;Terpenoid backbone biosynthesis
+852897;MAPK signaling pathway - yeast
+856250;Ribosome
+850402;Pentose phosphate pathway
+852352;Cell cycle - yeast
+852592;ATP-dependent chromatin remodeling
+854843;Meiosis - yeast
+853775;Porphyrin metabolism
+850361;Citrate cycle (TCA cycle)
+854053;MAPK signaling pathway - yeast
+853113;Other types of O-glycan biosynthesis
+850933;Tryptophan metabolism
+853410;Nucleocytoplasmic transport
+856825;Cysteine and methionine metabolism
+855159;Nucleocytoplasmic transport
+853608;Other types of O-glycan biosynthesis
+856744;Arginine and proline metabolism
+851086;MAPK signaling pathway - yeast
+853849;Terpenoid backbone biosynthesis
+851661;Spliceosome
+856831;Homologous recombination
+855983;Autophagy - other
+850636;Spliceosome
+853994;Citrate cycle (TCA cycle)
+852815;N-Glycan biosynthesis
+856642;D-Amino acid metabolism
+854262;Pentose phosphate pathway
+850691;Basal transcription factors
+853398;Endocytosis
+856148;Oxidative phosphorylation
+855647;Protein processing in endoplasmic reticulum
+851968;Spliceosome
+853674;Ribosome
+856800;Arginine biosynthesis
+852465;Ribosome biogenesis in eukaryotes
+852825;Biosynthesis of unsaturated fatty acids
+854248;Steroid biosynthesis
+851878;Glycerolipid metabolism
+856323;D-Amino acid metabolism
+852403;Protein export
+856615;Cysteine and methionine metabolism
+856751;Spliceosome
+852489;Ribosome
+854550;Cell cycle - yeast
+856131;Oxidative phosphorylation
+852713;Homologous recombination
+854508;Base excision repair
+851344;Ribosome
+856523;Phosphonate and phosphinate metabolism
+853193;Ribosome biogenesis in eukaryotes
+851751;Protein processing in endoplasmic reticulum
+855350;Polycomb repressive complex
+855361;Glycerolipid metabolism
+854866;Protein export
+854992;mRNA surveillance pathway
+852606;Porphyrin metabolism
+856862;MAPK signaling pathway - yeast
+854791;RNA polymerase
+853214;Galactose metabolism
+856415;Ribosome
+852791;MAPK signaling pathway - yeast
+851335;Endocytosis
+851574;ABC transporters
+852026;Ribosome
+855454;Inositol phosphate metabolism
+856733;Porphyrin metabolism
+852319;Ribosome
+856674;Nucleotide excision repair
+856209;Spliceosome
+852935;Meiosis - yeast
+853060;mRNA surveillance pathway
+851495;Nucleocytoplasmic transport
+853500;DNA replication
+855897;Ribosome biogenesis in eukaryotes
+853702;Protein export
+853796;Nucleocytoplasmic transport
+854392;DNA replication
+855347;ABC transporters
+853788;Spliceosome
+856836;Pentose phosphate pathway
+854813;SNARE interactions in vesicular transport
+852180;Cell cycle - yeast
+854768;Amino sugar and nucleotide sugar metabolism
+853338;Meiosis - yeast
+852395;Homologous recombination
+850909;Motor proteins
+850611;Proteasome
+850528;Spliceosome
+852779;Ribosome biogenesis in eukaryotes
+851366;N-Glycan biosynthesis
+851274;Cell cycle - yeast
+854644;Galactose metabolism
+853969;Ribosome
+854499;Other types of O-glycan biosynthesis
+851561;Cell cycle - yeast
+853155;Glycolysis / Gluconeogenesis
+851874;RNA degradation
+853677;MAPK signaling pathway - yeast
+851017;Amino sugar and nucleotide sugar metabolism
+854583;Oxidative phosphorylation
+851223;Mitophagy - yeast
+851814;mRNA surveillance pathway
+854284;Proteasome
+855658;Ribosome
+855737;RNA polymerase
+850833;Arginine and proline metabolism
+853488;Endocytosis
+855826;Ribosome
+853642;Oxidative phosphorylation
+856319;RNA degradation
+855960;Ribosome
+851652;Basal transcription factors
+851104;Ribosome
+854346;Glycerolipid metabolism
+855051;Protein export
+856819;Glycine, serine and threonine metabolism
+855227;Glycine, serine and threonine metabolism
+852579;Efferocytosis
+853668;Inositol phosphate metabolism
+856741;Meiosis - yeast
+856411;Arginine biosynthesis
+853783;Endocytosis
+850295;Glycine, serine and threonine metabolism
+851380;Pyruvate metabolism
+855622;Autophagy - yeast
+852082;Ribosome
+856222;mRNA surveillance pathway
+856175;Pyrimidine metabolism
+856107;Citrate cycle (TCA cycle)
+856687;Ribosome biogenesis in eukaryotes
+855013;Cell cycle - yeast
+852519;Citrate cycle (TCA cycle)
+856759;Glycerolipid metabolism
+855653;Glycolysis / Gluconeogenesis
+851845;Longevity regulating pathway - multiple species
+850592;Ribosome
+854738;Meiosis - yeast
+853943;Porphyrin metabolism
+853984;Fructose and mannose metabolism
+853163;Pentose phosphate pathway
+855324;Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+851085;Autophagy - yeast
+853409;Nucleocytoplasmic transport
+853552;Cell cycle - yeast
+851372;Endocytosis
+852696;Autophagy - yeast
+854605;Oxidative phosphorylation
+856504;Pentose and glucuronate interconversions
+852385;DNA replication
+855978;Nucleocytoplasmic transport
+853344;Cysteine and methionine metabolism
+851430;Cell cycle - yeast
+855190;Ribosome
+854175;ABC transporters
+855135;Valine, leucine and isoleucine biosynthesis
+855043;Autophagy - other
+855956;ABC transporters
+853492;Nucleotide excision repair
+855382;Vitamin B6 metabolism
+856217;Ribosome
+856868;Ribosome
+851068;Pentose phosphate pathway
+852979;Tryptophan metabolism
+853548;MAPK signaling pathway - yeast
+851481;Citrate cycle (TCA cycle)
+854979;Protein processing in endoplasmic reticulum
+855443;RNA degradation
+856910;Glutathione metabolism
+853467;Protein export
+852202;Aminoacyl-tRNA biosynthesis
+856007;Aminoacyl-tRNA biosynthesis
+850352;Glycerophospholipid metabolism
+855498;Autophagy - other
+854555;Hippo signaling pathway - multiple species
+855553;Tyrosine metabolism
+852499;MAPK signaling pathway - yeast
+855621;DNA replication
+856374;Pentose and glucuronate interconversions
+851585;Autophagy - yeast
+854029;Ribosome
+855577;MAPK signaling pathway - yeast
+852580;DNA replication
+855383;Vitamin B6 metabolism
+855418;MAPK signaling pathway - yeast
+855769;Pentose phosphate pathway
+850431;Protein processing in endoplasmic reticulum
+851987;Phenylalanine metabolism
+856694;Peroxisome
+851169;Ribosome
+851159;RNA degradation
+851666;Ubiquitin mediated proteolysis
+856539;Tyrosine metabolism
+852964;Spliceosome
+850297;Cell cycle - yeast
+852724;Peroxisome
+852986;Aminoacyl-tRNA biosynthesis
+854932;Fructose and mannose metabolism
+851369;Spliceosome
+855137;Glycolysis / Gluconeogenesis
+856016;MAPK signaling pathway - yeast
+851217;mRNA surveillance pathway
+854418;ATP-dependent chromatin remodeling
+850753;Nucleocytoplasmic transport
+855184;Nucleocytoplasmic transport
+854792;Histidine metabolism
+854973;Purine metabolism
+856673;Cysteine and methionine metabolism
+850589;Cell cycle - yeast
+851948;Peroxisome
+855108;Alanine, aspartate and glutamate metabolism
+851803;Cell cycle - yeast
+851624;Ubiquitin mediated proteolysis
+854093;Pentose phosphate pathway
+850614;Glycolysis / Gluconeogenesis
+853578;Ribosome
+856310;Ubiquitin mediated proteolysis
+852686;Ribosome
+855242;Steroid biosynthesis
+851705;Phenylalanine, tyrosine and tryptophan biosynthesis
+851400;Cell cycle - yeast
+854726;Pantothenate and CoA biosynthesis
+851560;Oxidative phosphorylation
+852450;Riboflavin metabolism
+854384;Nicotinate and nicotinamide metabolism
+855023;Meiosis - yeast
+854191;Cell cycle - yeast
+856197;Spliceosome
+851935;Nucleocytoplasmic transport
+855021;Cysteine and methionine metabolism
+854328;Proteasome
+852106;Autophagy - yeast
+851547;Fatty acid elongation
+851388;Purine metabolism
+856790;Fatty acid biosynthesis
+850519;Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+852858;Glycine, serine and threonine metabolism
+851254;Glycine, serine and threonine metabolism
+856519;Lysine degradation
+854836;MAPK signaling pathway - yeast
+852900;Vitamin B6 metabolism
+856530;Motor proteins
+851498;Ribosome
+851375;Cell cycle - yeast
+852415;Nucleocytoplasmic transport
+856105;Endocytosis
+851219;SNARE interactions in vesicular transport
+854309;ATP-dependent chromatin remodeling
+856195;Nucleocytoplasmic transport
+853803;MAPK signaling pathway - yeast
+851562;ATP-dependent chromatin remodeling
+854856;Glutathione metabolism
+855012;Autophagy - yeast
+852109;SNARE interactions in vesicular transport
+855330;Ribosome
+853097;Aminoacyl-tRNA biosynthesis
+852853;Ribosome
+855844;SNARE interactions in vesicular transport
+855954;Autophagy - other
+853401;Lipoic acid metabolism
+852191;Ribosome
+854845;Purine metabolism
+854242;SNARE interactions in vesicular transport
+855918;Ribosome
+853010;Cell cycle - yeast
+852177;Oxidative phosphorylation
+851848;Starch and sucrose metabolism
+852994;Aminoacyl-tRNA biosynthesis
+853565;Peroxisome
+854273;SNARE interactions in vesicular transport
+852905;MAPK signaling pathway - yeast
+854741;Ribosome
+852655;Motor proteins
+856506;Selenocompound metabolism
+854352;Peroxisome
+852097;Endocytosis
+855907;Cell cycle - yeast
+853581;Terpenoid backbone biosynthesis
+854850;Purine metabolism
+854882;Proteasome
+850359;Ribosome
+852305;Nucleocytoplasmic transport
+851983;Oxidative phosphorylation
+853227;Spliceosome
+851352;Meiosis - yeast
+853993;Ribosome
+850348;Valine, leucine and isoleucine biosynthesis
+856817;Protein export
+856610;Ribosome
+851967;Proteasome
+851996;Endocytosis
+851456;DNA replication
+855788;RNA degradation
+850504;Motor proteins
+2732686;Oxidative phosphorylation
+851285;Peroxisome
+855084;Arginine biosynthesis
+855317;Terpenoid backbone biosynthesis
+855288;Fatty acid biosynthesis
+855266;Pyrimidine metabolism
+852383;DNA replication
+853707;Amino sugar and nucleotide sugar metabolism
+853482;Tryptophan metabolism
+851895;mRNA surveillance pathway
+852203;Spliceosome
+850837;Ribosome biogenesis in eukaryotes
+850792;Cell cycle - yeast
+854419;Glycerolipid metabolism
+855787;Mitophagy - yeast
+854658;Ribosome
+854018;Peroxisome
+856742;Proteasome
+855603;Sulfur relay system
+854158;Mitophagy - yeast
+855536;Ribosome
+851389;RNA degradation
+850906;Purine metabolism
+852818;Citrate cycle (TCA cycle)
+852662;Endocytosis
+850401;RNA degradation
+852060;Ribosome biogenesis in eukaryotes
+854320;Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+852672;Ubiquinone and other terpenoid-quinone biosynthesis
+853080;Glycerophospholipid metabolism
+852079;SNARE interactions in vesicular transport
+856870;mRNA surveillance pathway
+855298;Oxidative phosphorylation
+855400;Phenylalanine, tyrosine and tryptophan biosynthesis
+856499;ATP-dependent chromatin remodeling
+852019;Terpenoid backbone biosynthesis
+853623;Meiosis - yeast
+855514;Ribosome biogenesis in eukaryotes
+853613;Cysteine and methionine metabolism
+856496;Meiosis - yeast
+856570;Spliceosome
+855731;mRNA surveillance pathway
+853305;Ribosome
+856638;Pyruvate metabolism
+855789;Ribosome biogenesis in eukaryotes
+850529;Amino sugar and nucleotide sugar metabolism
+853029;Ribosome biogenesis in eukaryotes
+856388;Ribosome
+851209;Cell cycle - yeast
+854601;Oxidative phosphorylation
+850656;Cell cycle - yeast
+850818;Cell cycle - yeast
+854342;Sphingolipid metabolism
+850625;Ribosome biogenesis in eukaryotes
+851391;DNA replication
+856057;Various types of N-glycan biosynthesis
+850554;Proteasome
+853986;Nucleotide excision repair
+851386;Glycolysis / Gluconeogenesis
+852890;Phosphonate and phosphinate metabolism
+856094;Ribosome
+850436;MAPK signaling pathway - yeast
+850903;Endocytosis
+854077;Oxidative phosphorylation
+855155;Nucleocytoplasmic transport
+854036;MAPK signaling pathway - yeast
+852507;Arginine biosynthesis
+851425;Lysine biosynthesis
+856847;MAPK signaling pathway - yeast
+850458;Meiosis - yeast
+850930;MAPK signaling pathway - yeast
+855127;Terpenoid backbone biosynthesis
+855655;Ribosome
+854249;Cell cycle - yeast
+854448;Metabolic pathways
+856036;Terpenoid backbone biosynthesis
+851807;Protein processing in endoplasmic reticulum
+851843;Tryptophan metabolism
+854161;Cell cycle - yeast
+855845;Fatty acid biosynthesis
+854151;Glycerophospholipid metabolism
+853839;Pyruvate metabolism
+853618;Pentose and glucuronate interconversions
+854287;Glycerolipid metabolism
+852976;Ribosome
+851564;Starch and sucrose metabolism
+854339;Aminoacyl-tRNA biosynthesis
+856734;Fatty acid biosynthesis
+854659;MAPK signaling pathway - yeast
+851758;Citrate cycle (TCA cycle)
+851168;Oxidative phosphorylation
+854621;Aminoacyl-tRNA biosynthesis
+855150;Ribosome
+854626;Aminoacyl-tRNA biosynthesis
+850593;Oxidative phosphorylation
+855937;Autophagy - yeast
+850905;Nucleocytoplasmic transport
+854609;Aminoacyl-tRNA biosynthesis
+850613;Proteasome
+852327;Oxidative phosphorylation
+850485;Vitamin B6 metabolism
+850486;Thiamine metabolism
+852582;MAPK signaling pathway - yeast
+852200;Autophagy - other
+855248;Terpenoid backbone biosynthesis
+856040;Endocytosis
+854028;Ribosome
+850343;Thiamine metabolism
+854275;Valine, leucine and isoleucine biosynthesis
+854748;Autophagy - yeast
+854377;Histidine metabolism
+856625;Thiamine metabolism
+856044;Glycolysis / Gluconeogenesis
+851464;Other types of O-glycan biosynthesis
+854142;SNARE interactions in vesicular transport
+851092;Glycolysis / Gluconeogenesis
+852222;Protein processing in endoplasmic reticulum
+856368;Folate biosynthesis
+850946;Pyrimidine metabolism
+850334;Cell cycle - yeast
+855939;Mismatch repair
+852263;Ribosome biogenesis in eukaryotes
+852020;Protein processing in endoplasmic reticulum
+855107;Glycolysis / Gluconeogenesis
+853521;Endocytosis
+853122;Glycine, serine and threonine metabolism
+855829;Polycomb repressive complex
+856012;Ribosome biogenesis in eukaryotes
+856401;Ribosome
+856814;Glycine, serine and threonine metabolism
+855998;Protein processing in endoplasmic reticulum
+852303;Various types of N-glycan biosynthesis
+851221;Glycine, serine and threonine metabolism
+853503;RNA degradation
+856092;Nicotinate and nicotinamide metabolism
+1466480;Oxidative phosphorylation
+856014;Glutathione metabolism
+855398;Meiosis - yeast
+851201;Spliceosome
+850441;Mitophagy - yeast
+854303;Citrate cycle (TCA cycle)
+854057;Ubiquinone and other terpenoid-quinone biosynthesis
+853649;Ribosome biogenesis in eukaryotes
+852286;Starch and sucrose metabolism
+851788;Meiosis - yeast
+852443;Ribosome
+854351;mRNA surveillance pathway
+853970;Nucleocytoplasmic transport
+854241;Pyrimidine metabolism
+850509;Ribosome
+850796;Ribosome biogenesis in eukaryotes
+851789;Inositol phosphate metabolism
+854485;Spliceosome
+852337;Ribosome
+852146;Pyruvate metabolism
+851931;Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+855145;Citrate cycle (TCA cycle)
+856004;Autophagy - other
+854357;Ribosome biogenesis in eukaryotes
+855742;Glycerolipid metabolism
+856413;Aminoacyl-tRNA biosynthesis
+856119;RNA polymerase
+852015;ABC transporters
+854849;Pyruvate metabolism
+854162;RNA degradation
+853481;Cysteine and methionine metabolism
+850846;Glycolysis / Gluconeogenesis
+851627;Protein processing in endoplasmic reticulum
+855140;Folate biosynthesis
+853475;Viral life cycle - HIV-1
+856108;Propanoate metabolism
+851691;Cell cycle - yeast
+855104;Nucleocytoplasmic transport
+851462;Other types of O-glycan biosynthesis
+851055;Starch and sucrose metabolism
+851333;Meiosis - yeast
+853696;MAPK signaling pathway - yeast
+852684;Oxidative phosphorylation
+854487;Ribosome biogenesis in eukaryotes
+851311;Arginine biosynthesis
+854642;Tryptophan metabolism
+855447;Glyoxylate and dicarboxylate metabolism
+853574;Inositol phosphate metabolism
+855993;Arginine biosynthesis
+855479;Autophagy - other
+855888;Spliceosome
+850543;Endocytosis
+851468;Terpenoid backbone biosynthesis
+852757;Spliceosome
+856640;Meiosis - yeast
+851076;MAPK signaling pathway - yeast
+851920;Alanine, aspartate and glutamate metabolism
+852092;Thiamine metabolism
+851620;Glycolysis / Gluconeogenesis
+853927;Sphingolipid metabolism
+852047;Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+856887;Endocytosis
+851419;Ribosome
+856387;Endocytosis
+851332;Protein processing in endoplasmic reticulum
+856648;Motor proteins
+851424;Cell cycle - yeast
+856473;Nicotinate and nicotinamide metabolism
+854095;Glycerophospholipid metabolism
+852939;Protein processing in endoplasmic reticulum
+856218;Proteasome
+856399;Peroxisome
+853705;Glycolysis / Gluconeogenesis
+851360;Purine metabolism
+856459;Ribosome biogenesis in eukaryotes
+854660;Mitophagy - yeast
+853384;Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+855606;Pyruvate metabolism
+851336;Ribosome
+852666;Endocytosis
+852289;Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+853091;Purine metabolism
+850779;Protein processing in endoplasmic reticulum
+851692;Ribosome
+854777;Endocytosis
+854542;Purine metabolism
+851896;Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+852099;Phagosome
+852111;Ribosome
+851363;MAPK signaling pathway - yeast
+855441;Steroid biosynthesis
+854092;Endocytosis
+852845;Various types of N-glycan biosynthesis
+856552;Ribosome
+851671;Mismatch repair
+851545;Cell cycle - yeast
+852425;Autophagy - yeast
+851516;Riboflavin metabolism
+850518;MAPK signaling pathway - yeast
+854501;Arginine and proline metabolism
+855125;Glycolysis / Gluconeogenesis
+856494;Meiosis - yeast
+853556;Meiosis - yeast
+851582;Glycine, serine and threonine metabolism
+852128;Glycolysis / Gluconeogenesis
+850969;Ribosome
+851503;Cell cycle - yeast
+850873;Cell cycle - yeast
+852042;Basal transcription factors
+850516;RNA degradation
+853555;mRNA surveillance pathway
+856498;Protein processing in endoplasmic reticulum
+850941;Inositol phosphate metabolism
+853585;Oxidative phosphorylation
+854321;Ribosome
+850484;Vitamin B6 metabolism
+852611;Cell cycle - yeast
+852586;Protein export
+853275;Meiosis - yeast
+851239;Butanoate metabolism
+851466;Protein export
+852550;Histidine metabolism
+855060;MAPK signaling pathway - yeast
+855221;SNARE interactions in vesicular transport
+855986;Terpenoid backbone biosynthesis
+855974;Basal transcription factors
+854815;Inositol phosphate metabolism
+851767;Protein export
+850585;Cell cycle - yeast
+851653;Autophagy - yeast
+853851;mRNA surveillance pathway
+850534;ATP-dependent chromatin remodeling
+851413;Glycerophospholipid metabolism
+853059;Glycine, serine and threonine metabolism
+851761;Cell cycle - yeast
+853318;RNA degradation
+856571;Cell cycle - yeast
+853349;Ribosome
+853405;Citrate cycle (TCA cycle)
+851414;Biotin metabolism
+852785;Autophagy - yeast
+850775;Cell cycle - yeast
+852243;Endocytosis
+853309;Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+855034;Arginine and proline metabolism
+854108;Cysteine and methionine metabolism
+851776;mRNA surveillance pathway
+853262;Ribosome
+851829;Arginine and proline metabolism
+854424;mRNA surveillance pathway
+851892;Oxidative phosphorylation
+850628;Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+856312;Spliceosome
+855994;Glycerophospholipid metabolism
+851928;Polycomb repressive complex
+856884;Oxidative phosphorylation
+853955;One carbon pool by folate
+850995;Cell cycle - yeast
+852983;Spliceosome
+855860;Inositol phosphate metabolism
+853473;Valine, leucine and isoleucine biosynthesis
+850327;Histidine metabolism
+852903;Oxidative phosphorylation
+853307;Sphingolipid metabolism
+852390;Thiamine metabolism
+852811;Ribosome
+853712;Proteasome
+854808;Fatty acid biosynthesis
+851478;Ribosome
+853664;Pyrimidine metabolism
+855241;Nucleotide excision repair
+855765;MAPK signaling pathway - yeast
+853128;Ribosome
+850749;Aminoacyl-tRNA biosynthesis
+855260;Terpenoid backbone biosynthesis
+853397;RNA degradation
+856840;Spliceosome
+853513;Cell cycle - yeast
+853287;Endocytosis
+850588;Sulfur metabolism
+855254;Protein processing in endoplasmic reticulum
+853651;Arginine and proline metabolism
+854356;Glycine, serine and threonine metabolism
+855874;N-Glycan biosynthesis
+853928;Phagosome
+856824;Phenylalanine, tyrosine and tryptophan biosynthesis
+851016;Amino sugar and nucleotide sugar metabolism
+852169;MAPK signaling pathway - yeast
+855786;Lysine biosynthesis
+854948;Purine metabolism
+852735;Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+855239;MAPK signaling pathway - yeast
+855723;Citrate cycle (TCA cycle)
+852471;Proteasome
+850594;Cell cycle - yeast
+851073;Purine metabolism
+855903;Ribosome
+856854;MAPK signaling pathway - yeast
+852518;Autophagy - other
+852414;Pentose phosphate pathway
+851450;Basal transcription factors
+853567;Pyrimidine metabolism
+9164899;Spliceosome
+850857;Alanine, aspartate and glutamate metabolism
+850974;RNA degradation
+855554;MAPK signaling pathway - yeast
+856778;Glycine, serine and threonine metabolism
+855036;Ubiquitin mediated proteolysis
+850555;Spliceosome
+850637;Nucleocytoplasmic transport
+853463;Autophagy - yeast
+850750;Ribosome
+852955;Viral life cycle - HIV-1
+855328;Non-homologous end-joining
+855257;Purine metabolism
+852661;Sulfur relay system
+850651;Oxidative phosphorylation
+853688;Meiosis - yeast
+855149;Purine metabolism
+854622;Oxidative phosphorylation
+856027;Oxidative phosphorylation
+855465;Folate biosynthesis
+854744;Purine metabolism
+852685;mRNA surveillance pathway
+854682;Glycerophospholipid metabolism
+852194;Cell cycle - yeast
+852230;Autophagy - yeast
+851173;MAPK signaling pathway - yeast
+856115;Meiosis - yeast
+854166;Non-homologous end-joining
+856804;Glycolysis / Gluconeogenesis
+853236;Meiosis - yeast
+852523;Glyoxylate and dicarboxylate metabolism
+856612;Autophagy - yeast
+853532;Purine metabolism
+850992;Amino sugar and nucleotide sugar metabolism
+854314;Thiamine metabolism
+854889;Phagosome
+856909;Nucleotide excision repair
+852307;Glycolysis / Gluconeogenesis
+854330;Spliceosome
+856722;Purine metabolism
+850668;Cysteine and methionine metabolism
+851383;Alanine, aspartate and glutamate metabolism
+856649;Autophagy - yeast
+851334;Terpenoid backbone biosynthesis
+851392;Endocytosis
+852883;Steroid biosynthesis
+850319;Autophagy - yeast
+854153;Mitophagy - yeast
+856557;Cell cycle - yeast
+854758;Glycerolipid metabolism
+850904;Protein processing in endoplasmic reticulum
+855675;Oxidative phosphorylation
+855399;mRNA surveillance pathway
+852365;Homologous recombination
+852576;Protein processing in endoplasmic reticulum
+855174;Ribosome
+854399;RNA polymerase
+854539;Endocytosis
+853867;Ribosome
+853640;Aminoacyl-tRNA biosynthesis
+854950;Pyruvate metabolism
+853244;Cell cycle - yeast
+854646;Fatty acid degradation
+854809;Sulfur relay system
+856291;Cell cycle - yeast
+853386;Tryptophan metabolism
+852377;MAPK signaling pathway - yeast
+851255;mRNA surveillance pathway
+9164985;Ribosome biogenesis in eukaryotes
+856147;Arginine biosynthesis
+854252;N-Glycan biosynthesis
+852924;N-Glycan biosynthesis
+851944;Meiosis - yeast
+856917;Purine metabolism
+855201;Glycerolipid metabolism
+852025;Spliceosome
+850713;SNARE interactions in vesicular transport
+850894;Ribosome biogenesis in eukaryotes
+854369;Basal transcription factors
+851696;Cell cycle - yeast
+850806;mRNA surveillance pathway
+853713;RNA polymerase
+856236;MAPK signaling pathway - yeast
+853130;Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+856384;Ribosome
+853508;Nicotinate and nicotinamide metabolism
+851731;Endocytosis
+855332;Spliceosome
+854989;N-Glycan biosynthesis
+854409;Ribosome
+851745;Basal transcription factors
+856162;Autophagy - other
+854995;Protein processing in endoplasmic reticulum
+851065;Alanine, aspartate and glutamate metabolism
+850420;Glycine, serine and threonine metabolism
+854213;Ribosome biogenesis in eukaryotes
+856313;N-Glycan biosynthesis
+852179;Tryptophan metabolism
+851135;Endocytosis
+855649;Ribosome biogenesis in eukaryotes
+855518;Peroxisome
+851139;Pyrimidine metabolism
+851605;Phenylalanine, tyrosine and tryptophan biosynthesis
+856590;Meiosis - yeast
+850496;Protein processing in endoplasmic reticulum
+851418;Endocytosis
+853528;Autophagy - yeast
+856844;Nucleocytoplasmic transport
+851006;Taurine and hypotaurine metabolism
+856179;Ubiquitin mediated proteolysis
+852536;Autophagy - yeast
+852410;MAPK signaling pathway - yeast
+855208;MAPK signaling pathway - yeast
+851575;Ribosome
+852990;Cell cycle - yeast
+851831;Peroxisome
+853203;Biotin metabolism
+856705;Starch and sucrose metabolism
+854697;Protein processing in endoplasmic reticulum
+850774;ATP-dependent chromatin remodeling
+853774;Pantothenate and CoA biosynthesis
+856776;Ribosome
+855558;Ribosome biogenesis in eukaryotes
+854480;ATP-dependent chromatin remodeling
+852703;Nucleocytoplasmic transport
+856576;Autophagy - other
+851493;Citrate cycle (TCA cycle)
+854138;RNA degradation
+851204;Motor proteins
+852071;Basal transcription factors
+856201;Basal transcription factors
+855417;RNA degradation
+854926;Basal transcription factors
+850577;Autophagy - other
+851457;Cell cycle - yeast
+851580;Phosphatidylinositol signaling system
+853095;Oxidative phosphorylation
+851713;ABC transporters
+851261;Autophagy - yeast
+851606;Valine, leucine and isoleucine degradation
+851725;Glycerophospholipid metabolism
+852110;Cell cycle - yeast
+852963;Nucleocytoplasmic transport
+852206;Ribosome
+855529;Amino sugar and nucleotide sugar metabolism
+852790;Non-homologous end-joining
+852554;Pyrimidine metabolism
+853906;Endocytosis
+850797;Ribosome biogenesis in eukaryotes
+853846;Cell cycle - yeast
+856305;DNA replication
+853538;Various types of N-glycan biosynthesis
+854014;Pyruvate metabolism
+852553;Ribosome
+852013;RNA polymerase
+851955;Selenocompound metabolism
+853181;Selenocompound metabolism
+850654;Mitophagy - yeast
+852362;N-Glycan biosynthesis
+856723;Ribosome biogenesis in eukaryotes
+852487;Ribosome
+851646;Starch and sucrose metabolism
+854506;ABC transporters
+854892;Cysteine and methionine metabolism
+851142;Autophagy - yeast
+853354;Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+855309;Oxidative phosphorylation
+853109;RNA degradation
+852873;Proteasome
+856853;Ribosome
+852094;Other types of O-glycan biosynthesis
+852728;ATP-dependent chromatin remodeling
+853261;Autophagy - yeast
+850962;Starch and sucrose metabolism
+854825;DNA replication
+851207;Efferocytosis
+851476;Ribosome
+854786;Cell cycle - yeast
+855745;Spliceosome
+851631;Polycomb repressive complex
+853520;Pyrimidine metabolism
+854338;Ribosome
+855194;Autophagy - yeast
+854371;Lipoic acid metabolism
+854497;Spliceosome
+853808;Nucleocytoplasmic transport
+850759;Pentose and glucuronate interconversions
+855594;Nicotinate and nicotinamide metabolism
+856842;Nucleocytoplasmic transport
+854868;Nucleocytoplasmic transport
+851237;Arginine biosynthesis
+852245;DNA replication
+852961;MAPK signaling pathway - yeast
+851238;Butanoate metabolism
+850705;Nucleocytoplasmic transport
+850456;Efferocytosis
+850885;ABC transporters
+850684;Autophagy - yeast
+850406;Meiosis - yeast
+851741;Spliceosome
+853273;Oxidative phosphorylation
+850325;MAPK signaling pathway - yeast
+853624;Pentose and glucuronate interconversions
+854370;Cell cycle - yeast
+850768;MAPK signaling pathway - yeast
+851946;Meiosis - yeast
+853806;mRNA surveillance pathway
+855609;RNA polymerase
+856652;Amino sugar and nucleotide sugar metabolism
+855858;ABC transporters
+851587;Aminoacyl-tRNA biosynthesis
+851218;Base excision repair
+855281;Spliceosome
+854331;Nucleocytoplasmic transport
+851975;Homologous recombination
+856464;Fatty acid biosynthesis
+853047;Thiamine metabolism
+853729;Motor proteins
+850855;Alanine, aspartate and glutamate metabolism
+850388;Aminoacyl-tRNA biosynthesis
+851002;Oxidative phosphorylation
+851192;Porphyrin metabolism
+855506;ATP-dependent chromatin remodeling
+852966;Spliceosome
+853116;Phosphonate and phosphinate metabolism
+851954;Efferocytosis
+853256;Various types of N-glycan biosynthesis
+854681;Citrate cycle (TCA cycle)
+854956;Spliceosome
+853636;Peroxisome
+9164923;Ribosome biogenesis in eukaryotes
+851126;Phosphatidylinositol signaling system
+850643;Aminoacyl-tRNA biosynthesis
+853595;N-Glycan biosynthesis
+851069;Valine, leucine and isoleucine biosynthesis
+853286;Fructose and mannose metabolism
+851584;Nucleocytoplasmic transport
+855232;Ribosome
+856866;Autophagy - yeast
+856837;Ubiquitin mediated proteolysis
+853108;Pentose and glucuronate interconversions
+850755;Protein export
+854118;Ribosome
+853961;Spliceosome
+850714;Arginine biosynthesis
+855771;Autophagy - yeast
+852239;Proteasome
+855489;RNA degradation
+855393;Efferocytosis
+854714;Lysine biosynthesis
+856491;Aminoacyl-tRNA biosynthesis
+852822;Ubiquitin mediated proteolysis
+852038;Tryptophan metabolism
+856421;Oxidative phosphorylation
+850427;Spliceosome
+853844;Pyrimidine metabolism
+852545;N-Glycan biosynthesis
+856428;Arginine and proline metabolism
+855645;Motor proteins
+851015;Ubiquitin mediated proteolysis
+853853;Oxidative phosphorylation
+853536;Glycerophospholipid metabolism
+856029;Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+850799;Sulfur relay system
+851417;Meiosis - yeast
+853798;Purine metabolism
+854204;Ribosome biogenesis in eukaryotes
+855632;Histidine metabolism
+853868;Endocytosis
+850685;Citrate cycle (TCA cycle)
+851299;Thiamine metabolism
+855303;Starch and sucrose metabolism
+853690;Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+856548;Pyrimidine metabolism
+851052;Ribosome
+853932;Starch and sucrose metabolism
+852875;Valine, leucine and isoleucine biosynthesis
+851687;Pentose and glucuronate interconversions
+853230;Lysine biosynthesis
+851322;Porphyrin metabolism
+852142;Oxidative phosphorylation
+853794;Cysteine and methionine metabolism
+852754;Ribosome
+850620;Ubiquitin mediated proteolysis
+852610;Nucleocytoplasmic transport
+851722;MAPK signaling pathway - yeast
+852559;Riboflavin metabolism
+856412;Aminoacyl-tRNA biosynthesis
+856920;Cell cycle - yeast
+856568;Pentose phosphate pathway
+855415;Ribosome
+853509;Spliceosome
+852378;One carbon pool by folate
+856268;Alanine, aspartate and glutamate metabolism
+854361;ATP-dependent chromatin remodeling
+852895;Cysteine and methionine metabolism
+850305;Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+856821;Protein export
+856589;Pentose phosphate pathway
+853381;DNA replication
+852810;RNA polymerase
+853016;Nucleocytoplasmic transport
+855605;RNA degradation
+853288;Inositol phosphate metabolism
+851082;Ribosome
+855887;Thiamine metabolism
+855758;RNA degradation
+853159;Citrate cycle (TCA cycle)
+855386;ATP-dependent chromatin remodeling
+853025;Alanine, aspartate and glutamate metabolism
+856718;Various types of N-glycan biosynthesis
+853427;Purine metabolism
+854749;Spliceosome
+854063;Mismatch repair
+855372;Pyruvate metabolism
+853209;Galactose metabolism
+850536;Meiosis - yeast
+854584;Oxidative phosphorylation
+851985;MAPK signaling pathway - yeast
+855949;Autophagy - yeast
+850737;Ribosome
+854949;Protein export
+855002;Ribosome
+850872;Ribosome biogenesis in eukaryotes
+855368;Glycolysis / Gluconeogenesis
+855338;Aminoacyl-tRNA biosynthesis
+856692;Pyrimidine metabolism
+852306;Galactose metabolism
+853249;Ribosome
+855857;Oxidative phosphorylation
+856745;Peroxisome
+853632;Meiosis - yeast
+853194;Pantothenate and CoA biosynthesis
+855883;Protein processing in endoplasmic reticulum
+851010;Cysteine and methionine metabolism
+851636;Ribosome
+852007;Ribosome biogenesis in eukaryotes
+855532;Nucleocytoplasmic transport
+855855;Cysteine and methionine metabolism
+854038;Protein export
+850605;Glutathione metabolism
+854887;Amino sugar and nucleotide sugar metabolism
+851670;Longevity regulating pathway - multiple species
+853007;Glycerophospholipid metabolism
+855575;RNA degradation
+853931;Ribosome
+853972;Glycolysis / Gluconeogenesis
+850506;Phagosome
+854977;Nucleocytoplasmic transport
+856485;Polycomb repressive complex
+851734;RNA polymerase
+853100;Cell cycle - yeast
+852241;Pyrimidine metabolism
+852864;Protein export
+854557;Arginine biosynthesis
+854025;Arginine biosynthesis
+854061;Efferocytosis
+853777;Citrate cycle (TCA cycle)
+855384;Thiamine metabolism
+856667;ATP-dependent chromatin remodeling
+852308;Galactose metabolism
+852547;ATP-dependent chromatin remodeling
+850977;Cell cycle - yeast
+851929;Peroxisome
+855170;Meiosis - yeast
+855362;Proteasome
+850370;Glycolysis / Gluconeogenesis
+854022;Riboflavin metabolism
+851171;Terpenoid backbone biosynthesis
+856484;MAPK signaling pathway - yeast
+853051;Ribosome
+854810;Proteasome
+854150;ATP-dependent chromatin remodeling
+852046;mRNA surveillance pathway
+851098;Aminoacyl-tRNA biosynthesis
+852679;Glycine, serine and threonine metabolism
+852504;Other types of O-glycan biosynthesis
+854490;Meiosis - yeast
+854983;Ribosome
+852918;Ribosome biogenesis in eukaryotes
+856398;Steroid biosynthesis
+854902;Ribosome
+856187;Thiamine metabolism
+854570;Glyoxylate and dicarboxylate metabolism
+856686;Oxidative phosphorylation
+851035;Ribosome
+852886;Ubiquitin mediated proteolysis
+854326;Purine metabolism
+852044;Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+855492;Glutathione metabolism
+852394;Autophagy - other
+852659;RNA degradation
+850940;Lipoic acid metabolism
+850790;Steroid biosynthesis
+854278;Pyrimidine metabolism
+855101;Viral life cycle - HIV-1
+852376;Polycomb repressive complex
+853170;Ubiquinone and other terpenoid-quinone biosynthesis
+851320;Nucleocytoplasmic transport
+853465;Glycolysis / Gluconeogenesis
+856748;Glycine, serine and threonine metabolism
+856481;RNA degradation
+855003;Steroid biosynthesis
+855203;Mismatch repair
+855456;Endocytosis
+854736;Glycine, serine and threonine metabolism
+855971;Oxidative phosphorylation
+851492;Oxidative phosphorylation
+854157;RNA polymerase
+854987;Base excision repair
+855009;Pyruvate metabolism
+852834;Proteasome
+854812;Protein processing in endoplasmic reticulum
+851905;Meiosis - yeast
+852058;Ribosome
+850569;Starch and sucrose metabolism
+853458;Ribosome biogenesis in eukaryotes
+851111;Oxidative phosphorylation
+851623;Cell cycle - yeast
+855270;Ribosome
+851771;ATP-dependent chromatin remodeling
+854762;N-Glycan biosynthesis
+856827;ATP-dependent chromatin remodeling
+850746;N-Glycan biosynthesis
+856626;Purine metabolism
+851977;Amino sugar and nucleotide sugar metabolism
+855410;Ribosome
+855819;MAPK signaling pathway - yeast
+852635;Other types of O-glycan biosynthesis
+852978;Glycolysis / Gluconeogenesis
+856188;Pentose phosphate pathway
+851447;RNA degradation
+856830;Proteasome
+855444;Cysteine and methionine metabolism
+854198;Mismatch repair
+855750;Fatty acid biosynthesis
+855692;Nitrogen metabolism
+856435;Oxidative phosphorylation
+854086;Nicotinate and nicotinamide metabolism
+855206;Glycolysis / Gluconeogenesis
+855665;ATP-dependent chromatin remodeling
+852702;Ribosome biogenesis in eukaryotes
+855833;Protein export
+850852;Alanine, aspartate and glutamate metabolism
+852451;RNA polymerase
+850552;Nucleocytoplasmic transport
+856918;Basal transcription factors
+854034;RNA degradation
+852287;Terpenoid backbone biosynthesis
+853422;Cell cycle - yeast
+856846;Nucleocytoplasmic transport
+853452;Purine metabolism
+855841;ATP-dependent chromatin remodeling
+852931;MAPK signaling pathway - yeast
+9164967;Ribosome biogenesis in eukaryotes
+855929;Motor proteins
+852673;DNA replication
+856476;Nucleocytoplasmic transport
+856518;Cell cycle - yeast
+850709;Ribosome biogenesis in eukaryotes
+851379;RNA degradation
+851087;Fatty acid elongation
+854509;Oxidative phosphorylation
+855253;Spliceosome
+852389;Thiamine metabolism
+854190;Nicotinate and nicotinamide metabolism
+854119;Proteasome
+852270;One carbon pool by folate
+855353;Starch and sucrose metabolism
+851210;Other types of O-glycan biosynthesis
+854233;N-Glycan biosynthesis
+852003;Proteasome
+851997;MAPK signaling pathway - yeast
+852061;Ribosome
+851939;Ribosome biogenesis in eukaryotes
+850292;Meiosis - yeast
+851125;Ribosome biogenesis in eukaryotes
+850692;MAPK signaling pathway - yeast
+854354;Ribosome
+851572;Galactose metabolism
+852271;Glycerolipid metabolism
+854993;Basal transcription factors
+854256;Endocytosis
+850360;Ubiquinone and other terpenoid-quinone biosynthesis
+853002;MAPK signaling pathway - yeast
+856320;RNA polymerase
+851477;Ribosome
+852423;Starch and sucrose metabolism
+856054;Various types of N-glycan biosynthesis
+850500;Protein processing in endoplasmic reticulum
+850520;ATP-dependent chromatin remodeling
+852763;Longevity regulating pathway - multiple species
+853569;Purine metabolism
+856084;One carbon pool by folate
+851554;Cell cycle - yeast
+854551;Ribosome
+851757;Ubiquitin mediated proteolysis
+855280;Ribosome biogenesis in eukaryotes
+854647;MAPK signaling pathway - yeast
+852742;Ribosome
+850616;Cysteine and methionine metabolism
+851924;Ribosome biogenesis in eukaryotes
+856145;Aminoacyl-tRNA biosynthesis
+855682;Arachidonic acid metabolism
+853630;Nucleocytoplasmic transport
+853757;Alanine, aspartate and glutamate metabolism
+856709;Autophagy - yeast
+854519;RNA polymerase
+851494;Peroxisome
+852088;Meiosis - yeast
+855131;Glycolysis / Gluconeogenesis
+854847;Purine metabolism
+852654;Mitophagy - yeast
+850840;Autophagy - yeast
+855349;Glycolysis / Gluconeogenesis
+855560;Ribosome
+852982;Ribosome biogenesis in eukaryotes
+852514;Porphyrin metabolism
+854544;Proteasome
+856675;Various types of N-glycan biosynthesis
+852096;ATP-dependent chromatin remodeling
+856015;Ribosome
+852266;Pyruvate metabolism
+852211;Pentose phosphate pathway
+850330;MAPK signaling pathway - yeast
+856375;Pentose phosphate pathway
+856595;Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+852602;Galactose metabolism
+850310;Nicotinate and nicotinamide metabolism
+854517;Ubiquitin mediated proteolysis
+855595;Inositol phosphate metabolism
+855276;Basal transcription factors
+851589;Ribosome
+851811;ATP-dependent chromatin remodeling
+851396;MAPK signaling pathway - yeast
+856489;Ribosome biogenesis in eukaryotes
+850499;Fructose and mannose metabolism
+856524;Meiosis - yeast
+850574;Inositol phosphate metabolism
+852265;MAPK signaling pathway - yeast
+856478;Protein processing in endoplasmic reticulum
+851484;Ribosome
+855652;DNA replication
+853371;Cell cycle - yeast
+851943;Meiosis - yeast
+851736;Glycine, serine and threonine metabolism
+852766;Basal transcription factors
+850745;Steroid biosynthesis
+852428;Autophagy - yeast
+853477;Fatty acid elongation
+850803;MAPK signaling pathway - yeast
+852952;Purine metabolism
+850590;Ribosome
+855275;Nucleocytoplasmic transport
+851158;Arginine and proline metabolism
+850994;Ribosome
+855026;N-Glycan biosynthesis
+850307;Purine metabolism
+852089;Ribosome biogenesis in eukaryotes
+852068;Ubiquitin mediated proteolysis
+852424;Oxidative phosphorylation
+856371;Ribosome
+852341;Ubiquinone and other terpenoid-quinone biosynthesis
+853345;Inositol phosphate metabolism
+856466;RNA degradation
+854443;Ether lipid metabolism
+853148;Cell cycle - yeast
+854745;Mitophagy - yeast
+853348;Fatty acid elongation
+855041;Peroxisome
+853120;Endocytosis
+856732;Spliceosome
+853081;Selenocompound metabolism
+853587;Ribosome
+852004;Nucleocytoplasmic transport
+852185;Ribosome
+856784;Ribosome
+851748;Endocytosis
+852467;Protein processing in endoplasmic reticulum
+856085;Nucleotide excision repair
+854699;Fructose and mannose metabolism
+852050;Lysine degradation
+853700;Ribosome
+851404;RNA polymerase
+852857;N-Glycan biosynthesis
+855931;Oxidative phosphorylation
+855029;Steroid biosynthesis
+853252;MAPK signaling pathway - yeast
+850459;Meiosis - yeast
+852464;Phenylalanine, tyrosine and tryptophan biosynthesis
+856682;RNA degradation
+855746;Pyrimidine metabolism
+855342;Sphingolipid metabolism
+856509;Lysine degradation
+852254;Ribosome
+851061;Nucleocytoplasmic transport
+852617;Purine metabolism
+853466;Purine metabolism
+854235;Endocytosis
+850877;Cysteine and methionine metabolism
+856579;Glycolysis / Gluconeogenesis
+856173;Phenylalanine, tyrosine and tryptophan biosynthesis
+853884;Endocytosis
+856229;Inositol phosphate metabolism
+851699;DNA replication
+853902;Glycerophospholipid metabolism
+852323;Vitamin B6 metabolism
+854179;mRNA surveillance pathway
+855500;Ribosome biogenesis in eukaryotes
+850963;RNA degradation
+851508;Glycerolipid metabolism
+854211;Nucleocytoplasmic transport
+855512;Spliceosome
+853936;Basal transcription factors
+852987;RNA degradation
+854504;Motor proteins
+853036;Proteasome
+851688;Cell cycle - yeast
+853746;Base excision repair
+850883;Ribosome biogenesis in eukaryotes
+851479;Glycolysis / Gluconeogenesis
+856593;Autophagy - other
+856848;RNA degradation
+855753;Steroid biosynthesis
+850764;Ribosome
+856656;Ribosome
+853869;Purine metabolism
+851191;Cell cycle - yeast
+851319;Ribosome biogenesis in eukaryotes
+855428;RNA degradation
+855773;Ribosome
+856403;Endocytosis
+854513;Aminoacyl-tRNA biosynthesis
+852379;Ribosome
+854423;Cell cycle - yeast
+851422;Ribosome
+850871;Citrate cycle (TCA cycle)
+852317;Glycerophospholipid metabolism
+852152;Biosynthesis of secondary metabolites
+851263;Nucleocytoplasmic transport
+855076;Oxidative phosphorylation
+853219;Peroxisome
+854452;Porphyrin metabolism
+854914;Amino sugar and nucleotide sugar metabolism
+854852;Lysine biosynthesis
+854735;Proteasome
+851891;Sphingolipid metabolism
+856009;Protein processing in endoplasmic reticulum
+851988;Nucleocytoplasmic transport
+851777;Pantothenate and CoA biosynthesis
+851724;Cell cycle - yeast
+850716;Ribosome
+852314;Fatty acid biosynthesis
+856691;Endocytosis
+852334;Meiosis - yeast
+852442;Glycolysis / Gluconeogenesis
+853135;Ribosome
+855459;DNA replication
+854008;Galactose metabolism
+854690;Histidine metabolism
+856932;One carbon pool by folate
+851472;Metabolic pathways
+854152;Ribosome biogenesis in eukaryotes
+851820;Lysine biosynthesis
+851861;Aminoacyl-tRNA biosynthesis
+856820;Aminoacyl-tRNA biosynthesis
+855118;Ribosome biogenesis in eukaryotes
+854415;Folate biosynthesis
+856008;Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+853964;Steroid biosynthesis
+853638;SNARE interactions in vesicular transport
+856067;Aminoacyl-tRNA biosynthesis
+853647;ABC transporters
+852497;Basal transcription factors
+852762;Cell cycle - yeast
+854767;Endocytosis
+852326;Amino sugar and nucleotide sugar metabolism
+854276;Inositol phosphate metabolism
+856529;Pyrimidine metabolism
+853507;Oxidative phosphorylation
+855643;Ribosome
+854353;Endocytosis
+851458;Protein export
+852397;Protein processing in endoplasmic reticulum
+850715;Purine metabolism
+856912;mRNA surveillance pathway
+855471;Homologous recombination
+853568;Peroxisome
+856315;Autophagy - other
+856898;Protein export
+851835;Pentose phosphate pathway
+850747;Glycine, serine and threonine metabolism
+856919;Spliceosome
+855356;Nucleocytoplasmic transport
+850326;Ribosome biogenesis in eukaryotes
+854088;Riboflavin metabolism
+850838;Cysteine and methionine metabolism
+850413;Ribosome
+854651;Glycerophospholipid metabolism
+851548;Ribosome biogenesis in eukaryotes
+851140;Proteasome
+851470;Nucleocytoplasmic transport
+854732;Aminoacyl-tRNA biosynthesis
+852778;Nucleocytoplasmic transport
+850973;SNARE interactions in vesicular transport
+853301;RNA polymerase
+856597;Steroid biosynthesis
+856024;Ribosome
+850608;Nicotinate and nicotinamide metabolism
+855121;Vitamin B6 metabolism
+856470;Steroid biosynthesis
+1466511;Spliceosome
+855895;Glycerophospholipid metabolism
+853198;ABC transporters
+854938;Cell cycle - yeast
+855730;Ribosome
+856317;RNA polymerase
+852691;Cysteine and methionine metabolism
+856314;Starch and sucrose metabolism
+854612;Aminoacyl-tRNA biosynthesis
+853878;beta-Alanine metabolism
+854965;Peroxisome
+851923;Endocytosis
+855794;Biotin metabolism
+850733;Glycolysis / Gluconeogenesis
+854444;Oxidative phosphorylation
+850400;Fatty acid elongation
+851059;Fructose and mannose metabolism
+853199;Starch and sucrose metabolism
+851894;Arginine and proline metabolism
+853727;Folate biosynthesis
+851518;Spliceosome
+854205;Pyruvate metabolism
+851648;Homologous recombination
+854261;Endocytosis
+855955;Pantothenate and CoA biosynthesis
+853997;mRNA surveillance pathway
+852694;Endocytosis
+852639;Glycolysis / Gluconeogenesis
+850968;Meiosis - yeast
+855726;Autophagy - other
+855642;Mismatch repair
+852408;Purine metabolism
+852091;MAPK signaling pathway - yeast
+851906;Basal transcription factors
+853250;Ribosome
+856000;Aminoacyl-tRNA biosynthesis
+856237;MAPK signaling pathway - yeast
+853353;Nucleotide excision repair
+852135;Meiosis - yeast
+856364;Meiosis - yeast
+855898;Meiosis - yeast
+856569;DNA replication
+855810;Fructose and mannose metabolism
+853747;DNA replication
+853957;Nucleocytoplasmic transport
+852418;Aminoacyl-tRNA biosynthesis
+852372;Autophagy - yeast
+850907;Cell cycle - yeast
+850879;MAPK signaling pathway - yeast
+853557;Ribosome
+855468;Nucleocytoplasmic transport
+854533;Meiosis - yeast
+852014;Ribosome
+851607;Aminoacyl-tRNA biosynthesis
+856295;Ribosome
+853717;Steroid biosynthesis
+852144;Pantothenate and CoA biosynthesis
+852199;Nucleocytoplasmic transport
+855473;RNA polymerase
+855923;mRNA surveillance pathway
+853119;Glycine, serine and threonine metabolism
+851596;Ubiquinone and other terpenoid-quinone biosynthesis
+851628;Glycerolipid metabolism
+851058;Ribosome
+851567;Homologous recombination
+855321;Glycolysis / Gluconeogenesis
+851441;Nucleocytoplasmic transport
+850820;Ribosome biogenesis in eukaryotes
+850861;Citrate cycle (TCA cycle)
+851570;Phenylalanine, tyrosine and tryptophan biosynthesis
+851858;Peroxisome
+856740;Protein export
+854976;Homologous recombination
+852560;Ribosome biogenesis in eukaryotes
+856126;Ribosome biogenesis in eukaryotes
+853861;Sphingolipid metabolism
+853167;Viral life cycle - HIV-1
+851342;Oxidative phosphorylation
+852481;Sphingolipid metabolism
+853895;RNA polymerase
+854913;Valine, leucine and isoleucine degradation
+856807;MAPK signaling pathway - yeast
+856096;Basal transcription factors
+851351;Pentose and glucuronate interconversions
+854221;Ribosome biogenesis in eukaryotes
+854981;Cell cycle - yeast
+856839;Ribosome
+853350;MAPK signaling pathway - yeast
+856739;Sphingolipid metabolism
+851482;Autophagy - yeast
+856794;Glyoxylate and dicarboxylate metabolism
+855373;Glycolysis / Gluconeogenesis
+852357;Spliceosome
+851532;Autophagy - yeast
+851452;Cell cycle - yeast
+855267;Basal transcription factors
+851200;Ribosome biogenesis in eukaryotes
+852922;Ribosome
+855450;MAPK signaling pathway - yeast
+852625;N-Glycan biosynthesis
+855313;Pyrimidine metabolism
+852077;MAPK signaling pathway - yeast
+855231;Ribosome
+853311;Pyrimidine metabolism
+852247;Riboflavin metabolism
+851114;RNA degradation
+850919;Ribosome biogenesis in eukaryotes
+850349;Viral life cycle - HIV-1
+855291;Alanine, aspartate and glutamate metabolism
+854265;Nucleocytoplasmic transport
+855764;N-Glycan biosynthesis
+852190;Homologous recombination
+850953;Peroxisome
+853840;Basal transcription factors
+852780;SNARE interactions in vesicular transport
+855583;Nucleocytoplasmic transport
+855319;Protein processing in endoplasmic reticulum
+854781;Protein processing in endoplasmic reticulum
+852114;Glycerolipid metabolism
+852017;Purine metabolism
+853442;RNA polymerase
+854618;Aminoacyl-tRNA biosynthesis
+850314;Protein processing in endoplasmic reticulum
+851339;mRNA surveillance pathway
+853843;RNA degradation
+852539;Spliceosome
+854598;Oxidative phosphorylation
+854114;Base excision repair
+850980;DNA replication
+856156;Ribosome
+854105;Cysteine and methionine metabolism
+855020;Glycerophospholipid metabolism
+851984;RNA degradation
+854406;MAPK signaling pathway - yeast
+851527;Meiosis - yeast
+854909;Protein processing in endoplasmic reticulum
+850623;Spliceosome
+850990;Fatty acid degradation
+856895;Mitophagy - yeast
+853191;Basal transcription factors
+853665;Glutathione metabolism
+851680;MAPK signaling pathway - yeast
+852468;Protein processing in endoplasmic reticulum
+855772;Ribosome
+854462;Protein processing in endoplasmic reticulum
+9164945;Ribosome biogenesis in eukaryotes
+851879;Meiosis - yeast
+852794;Cell cycle - yeast
+856062;Autophagy - yeast
+853140;Meiosis - yeast
+853529;Meiosis - yeast
+851611;Ribosome
+850682;Ribosome
+855571;RNA polymerase
+852433;Cell cycle - yeast
+854310;Citrate cycle (TCA cycle)
+852311;Amino sugar and nucleotide sugar metabolism
+852752;One carbon pool by folate
+855591;Ribosome biogenesis in eukaryotes
+853369;Cell cycle - yeast
+855460;Cell cycle - yeast
+856660;Ribosome
+853098;Basal transcription factors
+853243;Fatty acid elongation
+851042;MAPK signaling pathway - yeast
+852406;Phosphatidylinositol signaling system
+851541;Glycolysis / Gluconeogenesis
+852551;Phenylalanine, tyrosine and tryptophan biosynthesis
+852838;mRNA surveillance pathway
+853335;Ribosome biogenesis in eukaryotes
+850748;Ribosome biogenesis in eukaryotes
+853118;One carbon pool by folate
+855849;Pyruvate metabolism
+853863;SNARE interactions in vesicular transport
+852721;Other glycan degradation
+852479;Ribosome
+854433;Proteasome
+854294;MAPK signaling pathway - yeast
+852283;ATP-dependent chromatin remodeling
+851720;Peroxisome
+851925;Cell cycle - yeast
+854600;Oxidative phosphorylation
+853253;Various types of N-glycan biosynthesis
+852842;Porphyrin metabolism
+852865;Ribosome biogenesis in eukaryotes
+854126;Protein processing in endoplasmic reticulum
+850440;RNA degradation
+852456;Fatty acid elongation
+853030;Spliceosome
+852216;Motor proteins
+851406;Autophagy - other
+855057;Ascorbate and aldarate metabolism
+850686;Mitophagy - yeast
+853667;Protein processing in endoplasmic reticulum
+854937;Cell cycle - yeast
+854229;Ribosome
+854449;Viral life cycle - HIV-1
+855760;Protein processing in endoplasmic reticulum
+854872;Starch and sucrose metabolism
+856753;Endocytosis
+853248;Ribosome
+856261;Glycerolipid metabolism
+853604;Glycine, serine and threonine metabolism
+852143;Purine metabolism
+854383;MAPK signaling pathway - yeast
+852730;Ribosome
+852775;Ribosome
+850767;SNARE interactions in vesicular transport
+851048;Nucleocytoplasmic transport
+856683;Vitamin B6 metabolism
+851772;Nicotinate and nicotinamide metabolism
+851455;Amino sugar and nucleotide sugar metabolism
+854984;Ribosome
+852446;Ascorbate and aldarate metabolism
+852753;Autophagy - yeast
+853859;Ubiquitin mediated proteolysis
+852525;Base excision repair
+851617;Porphyrin metabolism
+856137;Starch and sucrose metabolism
+855196;Protein processing in endoplasmic reticulum
+850712;Viral life cycle - HIV-1
+852786;RNA degradation
+850645;ABC transporters
+854266;Other types of O-glycan biosynthesis
+850454;Mismatch repair
+851337;Ubiquitin mediated proteolysis
+855618;Inositol phosphate metabolism
+854124;Porphyrin metabolism
+856704;Ubiquitin mediated proteolysis
+851886;Protein export
+855552;Glycerophospholipid metabolism
+854505;SNARE interactions in vesicular transport
+853393;Endocytosis
+855779;Terpenoid backbone biosynthesis
+855018;Glycerophospholipid metabolism
+851659;Protein export
+854759;Ribosome
+853377;Methane metabolism
+855585;Ribosome
+855436;Ribosome
+856766;Cysteine and methionine metabolism
+856071;Oxidative phosphorylation
+850597;Cell cycle - yeast
+851888;Sphingolipid metabolism
+856468;Autophagy - yeast
+852130;Protein processing in endoplasmic reticulum
+853372;Protein processing in endoplasmic reticulum
+853418;Protein export
+854468;Ribosome
+855914;MAPK signaling pathway - yeast
+853479;RNA degradation
+855501;Purine metabolism
+853653;Fatty acid biosynthesis
+9164935;Ribosome biogenesis in eukaryotes
+850839;Spliceosome
+854693;MAPK signaling pathway - yeast
+856196;Aminoacyl-tRNA biosynthesis
+853760;MAPK signaling pathway - yeast
+852072;MAPK signaling pathway - yeast
+853755;Arginine biosynthesis
+852636;Glycolysis / Gluconeogenesis
+856608;Purine metabolism
+852885;ATP-dependent chromatin remodeling
+855404;DNA replication
+854295;Purine metabolism
+855807;ABC transporters
+856716;N-Glycan biosynthesis
+851537;Thiamine metabolism
+855499;mRNA surveillance pathway
+855628;Ribosome
+852084;Spliceosome
+855224;Protein processing in endoplasmic reticulum
+852098;Riboflavin metabolism
+851520;Nicotinate and nicotinamide metabolism
+854292;Ubiquinone and other terpenoid-quinone biosynthesis
+855925;Nucleocytoplasmic transport
+850770;Meiosis - yeast
+855981;Basal transcription factors
+855439;Ribosome biogenesis in eukaryotes
+853293;RNA polymerase
+856130;DNA replication
+852544;Purine metabolism
+850704;Cysteine and methionine metabolism
+852288;Terpenoid backbone biosynthesis
+852101;MAPK signaling pathway - yeast
+855963;MAPK signaling pathway - yeast
+855930;Ribosome
+853862;Endocytosis
+852902;Alanine, aspartate and glutamate metabolism
+855616;ATP-dependent chromatin remodeling
+850811;MAPK signaling pathway - yeast
+853322;Pentose phosphate pathway
+856689;Oxidative phosphorylation
+856799;RNA degradation
+850415;Steroid biosynthesis
+855120;Vitamin B6 metabolism
+852920;Starch and sucrose metabolism
+856026;Ribosome
+853106;Glycolysis / Gluconeogenesis
+853003;MAPK signaling pathway - yeast
+856063;Ribosome biogenesis in eukaryotes
+853504;Cell cycle - yeast
+855264;Homologous recombination
+856303;Viral life cycle - HIV-1
+852893;Nicotinate and nicotinamide metabolism
+851461;Proteasome
+852688;Oxidative phosphorylation
+856307;Spliceosome
+853589;Endocytosis
+853602;Sulfur metabolism
+851095;Protein export
+856182;Cysteine and methionine metabolism
+855842;Oxidative phosphorylation
+854231;Oxidative phosphorylation
+855651;Aminoacyl-tRNA biosynthesis
+854347;Porphyrin metabolism
+852034;Motor proteins
+854428;Protein export
+853374;Arginine biosynthesis
+855690;Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+853941;Glycerolipid metabolism
+855679;N-Glycan biosynthesis
+856659;Oxidative phosphorylation
+852364;Protein processing in endoplasmic reticulum
+856049;ABC transporters
+854573;Pyruvate metabolism
+851408;Proteasome
+855950;Cell cycle - yeast
+854068;Glycolysis / Gluconeogenesis
+850522;Aminoacyl-tRNA biosynthesis
+853669;Phenylalanine, tyrosine and tryptophan biosynthesis
+851881;Inositol phosphate metabolism
+853462;DNA replication
+856352;Ribosome
+853573;Pyrimidine metabolism
+855848;Glycolysis / Gluconeogenesis
+851877;Autophagy - yeast
+854875;Basal transcription factors
+851763;Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+854322;RNA polymerase
+852881;Cell cycle - yeast
+851241;Protein processing in endoplasmic reticulum
+854925;Various types of N-glycan biosynthesis
+850539;Cell cycle - yeast
+856203;Protein export
+850741;ATP-dependent chromatin remodeling
+856639;Fructose and mannose metabolism
+856311;Protein processing in endoplasmic reticulum
+855083;mRNA surveillance pathway
+856160;Aminoacyl-tRNA biosynthesis
+853566;Endocytosis
+854888;Ascorbate and aldarate metabolism
+854635;Galactose metabolism
+850825;Glycolysis / Gluconeogenesis
+853174;Nucleotide excision repair
+854797;MAPK signaling pathway - yeast
+852412;Lysine biosynthesis
+852494;ATP-dependent chromatin remodeling
+855952;Spliceosome
+850888;Peroxisome
+856262;Glycerophospholipid metabolism
+855053;MAPK signaling pathway - yeast
+851394;RNA degradation
+856011;Protein export
+855136;Motor proteins
+852457;MAPK signaling pathway - yeast
+852565;Glycine, serine and threonine metabolism
+850317;Glycolysis / Gluconeogenesis
+855593;Phosphonate and phosphinate metabolism
+850469;Glycolysis / Gluconeogenesis
+854657;Nucleocytoplasmic transport
+851723;Basal transcription factors
+851594;Nucleotide excision repair
+855884;Ribosome biogenesis in eukaryotes
+850342;Valine, leucine and isoleucine biosynthesis
+852233;Endocytosis
+853782;Oxidative phosphorylation
+851112;Autophagy - yeast
+851346;Lysine biosynthesis
+851822;Riboflavin metabolism
+855977;Ribosome biogenesis in eukaryotes
+854986;Purine metabolism
+851427;Ribosome
+854765;Cell cycle - yeast
+855414;Ribosome
+856777;Polycomb repressive complex
+851865;Pyruvate metabolism
+856859;Endocytosis
+851039;Nicotinate and nicotinamide metabolism
+851487;Protein processing in endoplasmic reticulum
+854240;Meiosis - yeast
+854773;RNA degradation
+854514;Protein processing in endoplasmic reticulum
+852538;mRNA surveillance pathway
+854575;Glycolysis / Gluconeogenesis
+850964;Sphingolipid metabolism
+856432;Alanine, aspartate and glutamate metabolism
+850908;Autophagy - yeast
+9164921;Ribosome biogenesis in eukaryotes
+856805;Ribosome
+851259;Spliceosome
+856603;Ribosome biogenesis in eukaryotes
+854335;Protein export
+853654;Pentose phosphate pathway
+852332;RNA degradation
+851203;SNARE interactions in vesicular transport
+852660;SNARE interactions in vesicular transport
+854046;MAPK signaling pathway - yeast
+856402;Aminoacyl-tRNA biosynthesis
+856720;Fructose and mannose metabolism
+853168;Proteasome
+854776;Ribosome biogenesis in eukaryotes
+853304;Starch and sucrose metabolism
+853716;Citrate cycle (TCA cycle)
+851752;mRNA surveillance pathway
+855581;Purine metabolism
+855346;Purine metabolism
+854435;Proteasome
+853456;Proteasome
+856500;Glycerophospholipid metabolism
+854286;Ribosome biogenesis in eukaryotes
+852951;Steroid biosynthesis
+852037;Proteasome
+850983;mRNA surveillance pathway
+855480;Pentose phosphate pathway
+856700;RNA degradation
+850514;Alanine, aspartate and glutamate metabolism
+854090;Sulfur metabolism
+851325;Ribosome
+854709;Mitophagy - yeast
+852431;MAPK signaling pathway - yeast
+852846;Nicotinate and nicotinamide metabolism
+855245;Glycolysis / Gluconeogenesis
+856194;Phagosome
+856672;Oxidative phosphorylation
+856018;Sphingolipid metabolism
+852667;Fatty acid degradation
+856390;Oxidative phosphorylation
+852258;DNA replication
+855691;Citrate cycle (TCA cycle)
+855778;Ubiquinone and other terpenoid-quinone biosynthesis
+856394;MAPK signaling pathway - yeast
+850527;Glycolysis / Gluconeogenesis
+851812;Purine metabolism
+856186;RNA degradation
+850824;Glycerophospholipid metabolism
+855568;MAPK signaling pathway - yeast
+851431;Protein processing in endoplasmic reticulum
+852198;Aminoacyl-tRNA biosynthesis
+856353;Glycerolipid metabolism
+850981;Spliceosome
+854096;Arginine biosynthesis
+851162;Ribosome
+852522;Glycolysis / Gluconeogenesis
+854794;Ribosome
+854627;Oxidative phosphorylation
+852009;Pyrimidine metabolism
+855077;Cell cycle - yeast
+854268;Meiosis - yeast
+856843;Meiosis - yeast
+855200;MAPK signaling pathway - yeast
+854362;Starch and sucrose metabolism
+855543;Ribosome
+855066;Nucleocytoplasmic transport
+851558;MAPK signaling pathway - yeast
+853133;Ribosome biogenesis in eukaryotes
+851818;Glycine, serine and threonine metabolism
+854009;Meiosis - yeast
+851122;Ribosome
+850864;Ribosome
+851145;MAPK signaling pathway - yeast
+855474;Aminoacyl-tRNA biosynthesis
+852888;Basal transcription factors
+856665;Glycine, serine and threonine metabolism
+855387;Peroxisome
+854117;Ribosome
+851353;Thiamine metabolism
+853455;N-Glycan biosynthesis
+851504;Fructose and mannose metabolism
+853364;ATP-dependent chromatin remodeling
+853461;Endocytosis
+852235;Oxidative phosphorylation
+851726;Citrate cycle (TCA cycle)
+855934;Ribosome biogenesis in eukaryotes
+853313;MAPK signaling pathway - yeast
+851013;Citrate cycle (TCA cycle)
+850970;Non-homologous end-joining
+851167;Glycolysis / Gluconeogenesis
+853709;Citrate cycle (TCA cycle)
+852729;Phenylalanine, tyrosine and tryptophan biosynthesis
+856654;ATP-dependent chromatin remodeling
+854840;Protein export
+855611;Spliceosome
+852872;Steroid biosynthesis
+850777;Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+853062;RNA degradation
+851832;Various types of N-glycan biosynthesis
+855427;Cell cycle - yeast
+854411;One carbon pool by folate
+850491;Fructose and mannose metabolism
+850639;MAPK signaling pathway - yeast
+856420;Glycine, serine and threonine metabolism
+852196;N-Glycan biosynthesis
+854387;MAPK signaling pathway - yeast
+856321;Oxidative phosphorylation
+856885;Base excision repair
+855381;Atrazine degradation
+856076;Cell cycle - yeast
+852119;Cell cycle - yeast
+853086;Steroid biosynthesis
+850727;Oxidative phosphorylation
+850437;Pentose phosphate pathway
+850695;Ribosome
+851212;RNA degradation
+854488;Glycerophospholipid metabolism
+851272;Purine metabolism
+854801;Other types of O-glycan biosynthesis
+855274;DNA replication
+855739;Viral life cycle - HIV-1
+853871;mRNA surveillance pathway
+853395;Glycolysis / Gluconeogenesis
+854529;Glycolysis / Gluconeogenesis
+853818;Autophagy - yeast
+854227;Ribosome biogenesis in eukaryotes
+855392;Inositol phosphate metabolism
+850793;Cell cycle - yeast
+852612;Nucleocytoplasmic transport
+856114;Glyoxylate and dicarboxylate metabolism
+855881;Ribosome
+850397;Ribosome
+854495;Fatty acid biosynthesis
+854056;Aminoacyl-tRNA biosynthesis
+854731;RNA degradation
+853959;mRNA surveillance pathway
+856547;RNA polymerase
+855132;Non-homologous end-joining
+855761;Vitamin B6 metabolism
+854263;Ribosome
+856889;RNA degradation
+854700;Cell cycle - yeast
+851847;Cell cycle - yeast
+851376;Pyruvate metabolism
+856234;Cysteine and methionine metabolism
+853857;Spliceosome
+854270;N-Glycan biosynthesis
+854943;Glycerophospholipid metabolism
+852644;Purine metabolism
+851421;mRNA surveillance pathway
+850664;Cysteine and methionine metabolism
+853856;Autophagy - yeast
+854168;Protein export
+852065;Purine metabolism
+853732;Glycolysis / Gluconeogenesis
+854425;Cysteine and methionine metabolism
+856134;ATP-dependent chromatin remodeling
+851070;Mitophagy - yeast
+853382;Ribosome
+856925;Glycolysis / Gluconeogenesis
+855247;Fatty acid biosynthesis
+855180;N-Glycan biosynthesis
+855988;MAPK signaling pathway - yeast
+856575;Ribosome biogenesis in eukaryotes
