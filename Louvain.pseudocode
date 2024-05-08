@@ -1,0 +1,35 @@
+Louvain_P1(graphe:dictionnaire)
+    début
+    // Initialisation des communautés : chaque noeud est dans une communauté différente
+    communautes = [k pour k allant de 0 à taille(graphe)-1]
+    flag_modif = Vrai   
+    m = Calcul_m(graphe)
+
+    tant que (flag_modif = Vrai) faire      // tant qu'on modifie encore les communautés
+        flag_modif = Faux
+
+        pour chaque noeud n faire
+            ki = Calcul_ki(n)
+            max = -1
+            max_v = -1
+            liste_voisins = TrouveVoisins(n)
+
+            pour chaque voisin v de liste_voisins faire      
+                si un noeud de liste_voisins est dans la même communauté que v alors
+                    Supprimer v de liste_voisins        // pour ne traiter qu'un seul voisin par communauté
+
+            pour chaque voisin v de liste_voisins faire    
+                ki_in = Calcul_ki_in(n, communautes[v])
+                S_tot = Calcul_S_tot(n)
+                // Calcul du gain
+                gain = (1/(2*m))*((2*ki_in) - (S_tot * ki)/m)
+
+                si gain > max alors
+                    max = gain
+                    max_v = v
+
+            si // condition d'arrêt
+                AjoutDansCommunaute(n, communautes[max_v])
+                flag_modif = Vrai
+    retourne communautes
+    fin
